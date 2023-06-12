@@ -1,9 +1,9 @@
-# Read This
+# Readmegenerator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Read Me generator
+It creates a readme 
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ Read Me generator
 
 ## Installation
 
-Na/
+none
 
 ## Usage
 
-NA
+none
 
 
 ## License
@@ -30,12 +30,12 @@ This project is licensed under the MIT License. For more information, see the [L
 
 ## Contributing
 
-NA
+none
 
 ## Tests
 
-NA
+none
 
 ## Questions
 
-For any questions, please reach out to me via [GitHub](https://github.com/Davik911) or [email](mailto:).
+For any questions, please reach out to me via [GitHub](https://github.com/name and email) or [email](mailto:fanger@yahoo.com).
